@@ -4,6 +4,7 @@ description: A web-based app that generates 3D visuals from text prompts using g
 date: 2025-04-8
 image: https://3dgenai.eejay.me/banner.png 
 category: Development
+site: https://3dgenai.eejay.me/
 author:
  name: Juan Carlos de Borja
  role: Developer and Author
