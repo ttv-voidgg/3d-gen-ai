@@ -6,7 +6,7 @@ image: https://3dgenai.eejay.me/banner.png
 category: Development
 author:
  name: Juan Carlos de Borja
- role: Developer and 3D artist
+ role: Developer and Author
  avatar: https://github.com/ttv-voidgg.png  
 ---
 
