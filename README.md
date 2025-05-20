@@ -2,7 +2,7 @@
 title: 3DGenAI
 description: A web-based app that generates 3D visuals from text prompts using generative AI and displays them interactively in a 3D environment.
 date: 2025-04-8
-image: https://3dgenai.eejay.me/images/banner.png 
+image: https://3dgenai.eejay.me/banner.png 
 category: Development
 author:
  name: Juan Carlos de Borja
